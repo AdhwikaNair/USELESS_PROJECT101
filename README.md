@@ -60,23 +60,23 @@ For Software:
 # Screenshots (Add at least 3)
 
 HOMEPAGE
-<img  height="402" alt="frame (3)" src="https://i.ibb.co/Gv5jRm7T/Screenshot-2025-08-09-050739.png" />
+<img  height="300" alt="frame (3)" src="https://i.ibb.co/Gv5jRm7T/Screenshot-2025-08-09-050739.png" />
 
 
 USELESS AI
-<img  height="402" alt="frame (3)" src="https://i.ibb.co/Xkxbry08/Whats-App-Image-2025-08-09-at-05-47-00.jpg"  />
+<img  height="300" alt="frame (3)" src="https://i.ibb.co/Xkxbry08/Whats-App-Image-2025-08-09-at-05-47-00.jpg"  />
 
 MYSTIC CAM
-<img  height="402" alt="frame (3)" src="https://i.ibb.co/21MW0bk8/Whats-App-Image-2025-08-09-at-05-48-13.jpg"    />
-<img  height="1202" alt="frame (3)" src="https://i.ibb.co/PsHcJJG9/Screenshot-2025-08-09-050901.png"  />
+<img  height="300" alt="frame (3)" src="https://i.ibb.co/21MW0bk8/Whats-App-Image-2025-08-09-at-05-48-13.jpg"    />
+<img  height="300" alt="frame (3)" src="https://i.ibb.co/PsHcJJG9/Screenshot-2025-08-09-050901.png"  />
 
 
 GAME
-<img  height="402" alt="frame (3)" src="https://i.ibb.co/JjTG38jR/Screenshot-2025-08-09-051029.png"  />
-<img  height="402" alt="frame (3)" src="https://i.ibb.co/dsbqbQZf/Screenshot-2025-08-09-051056.png" />
+<img  height="300" alt="frame (3)" src="https://i.ibb.co/JjTG38jR/Screenshot-2025-08-09-051029.png"  />
+<img  height="300" alt="frame (3)" src="https://i.ibb.co/dsbqbQZf/Screenshot-2025-08-09-051056.png" />
 
 QR SCAN
-<img  height="402" alt="frame (3)" src="https://i.ibb.co/4Z04TKBF/Screenshot-2025-08-09-051130.png" />
+<img  height="300" alt="frame (3)" src="https://i.ibb.co/4Z04TKBF/Screenshot-2025-08-09-051130.png" />
 
 
 
