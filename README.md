@@ -37,22 +37,8 @@ We created this website, hehe.
 **Software:**
 - VS Code
 - Mainly HTML, CSS, JavaScript
-- Libraries: AI, Supabase
+- AI, Supabase
 
-**Hardware:**  
-None
-
----
-
-### Implementation
-
-#### Installation
-[commands]
-
-#### Run
-[commands]
-
----
 
 ## Project Documentation
 
