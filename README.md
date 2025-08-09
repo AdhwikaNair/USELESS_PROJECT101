@@ -79,10 +79,7 @@ QR SCAN
 <img  height="300" alt="frame (3)" src="https://i.ibb.co/4Z04TKBF/Screenshot-2025-08-09-051130.png" />
 
 
-<p align="left">
-  <img src="image-url" alt="Image" width="100"/>
-  Your text goes here, right next to the image.
-</p>
+
 
 
 
